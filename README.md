@@ -9,7 +9,7 @@ Contiene 3 carpetas con cada técnica de visualización estudiada. En cada carpe
 - el fichero `.ipynb` en el que se ha procesado el dataset y/o implementado la técnica de visualización
 - un fichero `.png` o `.jpg` en el que se ha guardado el resultado de esa técnica de visualización
 
-A mayores, en la carpeta `hyperbolic_trees` podemos encontrar otro fichero, `reptiles.csv`, que es el fichero que contiene los datos representados en la visualización, tras el procesado del fichero original, `animals.csv`.
+A mayores, en la carpeta `hyperbolic_trees` podemos encontrar otro fichero, `reptiles.csv`, que es el fichero que contiene los datos representados en la visualización, tras el procesado del fichero original, `animals.csv`. En este caso, la representación se ha implementado utilizando la web [https://www.yworks.com/yed-live/](https://www.yworks.com/yed-live/)
 
 Los enlaces a cada uno de los ficheros explicados anteriormente son los siguientes:
 - **Histograms**:
